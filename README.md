@@ -22,7 +22,7 @@ The task is to calculate and compare the **theoretical probability** of player 1
   - Calculates the theoretical probability,
   - Runs 200 Monte Carlo simulations,
   - Produces comparison plots and trial logs.
-- `report.tex` — Full LaTeX report with formulas, proofs, and detailed explanation.  
+- `report.pdf` — Full PDF report with formulas, proofs, and detailed explanation.  
 - `trials_200.csv` — Simulation log (200 trials).  
 - `compare_survival.png` — Plot comparing theory vs. empirical results.  
 - `README.md` — This file.
